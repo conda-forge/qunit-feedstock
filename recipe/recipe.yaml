@@ -1,5 +1,5 @@
 context:
-  version: "2.24.1"
+  version: "2.24.2"
 
 package:
   name: qunit
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/qunit/-/qunit-${{ version }}.tgz
-  sha256: cca640e305250ee97cf9bb1cdc5b8d496bbf3139d640d5ad21512545f44c9987
+  sha256: 0bb099b1f142144e552e15d3d7025d5ec8a87773fa38ba4415b5d5e5bfe1d667
 
 build:
   number: 0
